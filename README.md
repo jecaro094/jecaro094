@@ -50,7 +50,6 @@ I build scalable APIs, microservices and data platforms with Python — Django, 
 ## 🚀 Featured Projects
 
 - **[job-search](https://github.com/jecaro094/job-search)** — AI-agent system that runs my job-search pipeline end-to-end: multi-platform discovery, dual scoring (technical + career fit) and a multi-agent coaching squad. Spec-driven, with persistent memory.
-- **[Openmetadata-doctor](https://github.com/jecaro094/Openmetadata-doctor)** — Open-source contribution: documents gaps in the OpenMetadata SDK and provides possible fixes for data-governance tooling.
 - **[cookiecutter-django-template](https://github.com/jecaro094/cookiecutter-django-template)** — Bootstrap production-grade Django microservices with a consistent, opinionated structure.
 - **[fastapi-code-agent](https://github.com/jecaro094/fastapi-code-agent)** — FastAPI API around an agent that writes and iterates on code.
 - **[python-architecture-patterns](https://github.com/jecaro094/python-architecture-patterns)** — DDD and event-driven patterns from *Architecture Patterns with Python*, applied hands-on.
