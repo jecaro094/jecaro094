@@ -47,12 +47,29 @@ I build scalable APIs, microservices and data platforms with Python — Django, 
 [![SonarQube](https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarsource.com/products/sonarqube/)
 [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-- **[job-search](https://github.com/jecaro094/job-search)** — AI-agent system that runs my job-search pipeline end-to-end: multi-platform discovery, dual scoring (technical + career fit) and a multi-agent coaching squad. Spec-driven, with persistent memory.
-- **[cookiecutter-django-template](https://github.com/jecaro094/cookiecutter-django-template)** — Bootstrap production-grade Django microservices with a consistent, opinionated structure.
-- **[fastapi-code-agent](https://github.com/jecaro094/fastapi-code-agent)** — FastAPI API around an agent that writes and iterates on code.
-- **[python-architecture-patterns](https://github.com/jecaro094/python-architecture-patterns)** — DDD and event-driven patterns from *Architecture Patterns with Python*, applied hands-on.
+| Project | What it does |
+|---|---|
+| [**job-search**](https://github.com/jecaro094/job-search) | AI-agent system that runs my job-search pipeline end-to-end: multi-platform discovery, dual scoring (technical + career fit) and a multi-agent coaching squad. Spec-driven, with persistent memory. |
+| [**cookiecutter-django-template**](https://github.com/jecaro094/cookiecutter-django-template) | Bootstrap production-grade Django microservices with a consistent, opinionated structure. |
+| [**fastapi-code-agent**](https://github.com/jecaro094/fastapi-code-agent) | FastAPI API around an agent that writes and iterates on code. |
+| [**python-architecture-patterns**](https://github.com/jecaro094/python-architecture-patterns) | DDD and event-driven patterns from *Architecture Patterns with Python*, applied hands-on. |
+
+
+## 🕹️ My contributions
+
+<!-- Breakout game over my contribution graph — generated daily by abozanona/pacman-contribution-graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jecaro094/jecaro094/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jecaro094/jecaro094/output/breakout-contribution-graph.svg">
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/jecaro094/jecaro094/output/breakout-contribution-graph.svg">
+</picture>
+
+<!-- Alternativa sin GitHub Action (gráfico de actividad, últimos 31 días):
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jecaro094&theme=react-dark&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+-->
+
 
 ## 📫 Connect
 
