@@ -47,15 +47,6 @@ I build scalable APIs, microservices and data platforms with Python — Django, 
 [![SonarQube](https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarsource.com/products/sonarqube/)
 [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
-## 🚀 Selected Projects
-
-| Project | What it does |
-|---|---|
-| [**job-search**](https://github.com/jecaro094/job-search) | AI-agent system that runs my job-search pipeline end-to-end: multi-platform discovery, dual scoring (technical + career fit) and a multi-agent coaching squad. Spec-driven, with persistent memory. |
-| [**cookiecutter-django-template**](https://github.com/jecaro094/cookiecutter-django-template) | Bootstrap production-grade Django microservices with a consistent, opinionated structure. |
-| [**fastapi-code-agent**](https://github.com/jecaro094/fastapi-code-agent) | FastAPI API around an agent that writes and iterates on code. |
-| [**python-architecture-patterns**](https://github.com/jecaro094/python-architecture-patterns) | DDD and event-driven patterns from *Architecture Patterns with Python*, applied hands-on. |
-
 
 ## 🕹️ My contributions
 
