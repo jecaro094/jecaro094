@@ -8,7 +8,9 @@
 
 **Senior Backend Engineer · Python 🐍**
 
-I build scalable APIs, microservices and data platforms with Python — Django, FastAPI, Flask, Kafka, Celery and AWS. I care about clean architecture, meaningful tests and software that stays maintainable after the first release.
+I build reliable backend systems for high-throughput APIs, asynchronous workloads, event-driven architectures and data-intensive applications.
+
+My main focus is **Python**, with experience across **Django, FastAPI, Kafka, Celery and AWS**. I care about simple architecture, meaningful tests, observability and software that remains maintainable as systems and teams grow.
 
 ## ⚡ Tech I work with
 
@@ -45,8 +47,13 @@ I build scalable APIs, microservices and data platforms with Python — Django, 
 [![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org)
 [![TDD](https://img.shields.io/badge/TDD-E34F26?style=for-the-badge)](https://en.wikipedia.org/wiki/Test-driven_development)
 [![SonarQube](https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarsource.com/products/sonarqube/)
-[![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
+## 🧠 How I approach engineering
+
+* **Keep it simple** — prefer clear, maintainable solutions over unnecessary complexity.
+* **Build for production** — reliability, observability and failure handling are part of the design.
+* **Test with purpose** — meaningful automated tests that give teams confidence to move fast.
+* **Design for change** — clear boundaries and pragmatic architecture that can evolve with the product.
 
 ## 🕹️ My contributions
 
@@ -57,11 +64,8 @@ I build scalable APIs, microservices and data platforms with Python — Django, 
   <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/jecaro094/jecaro094/output/breakout-contribution-graph.svg">
 </picture>
 
-<!-- Alternativa sin GitHub Action (gráfico de actividad, últimos 31 días):
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jecaro094&theme=react-dark&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
--->
 
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-caballero-rodriguez/) <!-- TODO: pon tu URL real de LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-caballero-rodriguez/)
